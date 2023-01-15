@@ -1,0 +1,8 @@
+There are 4 types of loops:
+1)while
+2)while do
+3) for
+4)enhanced for loop.
+Break keyword is used to stop a loop just like the condition that we use inside a loop.
+Continue keyword is used to skip all the code written inside the body of the loop.
+We should always use break and continue with IF condition.
