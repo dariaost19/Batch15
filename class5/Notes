@@ -1,0 +1,21 @@
+Scanner Class 5 (01/07/2023)
+Help us to take input from keyboard.
+Logical operators :
+just another set of symbols that we can use to combine multiple boolean operators.
+There are 3 logical operators:
+! - not operator . is used to negate the boolean values.If something is true it will make it false , and if something is false it will make it true.
+|| (above enter +shift) - or
+& - and
+
+we can simplify the logic if we use these operators.
+What is the Syntax:
+they only work with BOOLEAN !
+if(! condition)
+if(condition1 || condition2)
+if(condition1 && condition2)
+|| OR logical operator
+it combine two or more conditions and returns true  as long as at least one of the condition is true.
+false will be only if everything is False!
+
+Logical && operator (And)
+it can also combine 2 or more conditions . it only returns true if all the conditions are True.
