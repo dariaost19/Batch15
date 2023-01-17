@@ -1,6 +1,6 @@
 package class9;
 
-public class ArraysDemo8 {
+public class ArraysDemo9 {
     public static void main(String[] args) {
 
 

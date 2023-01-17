@@ -2,7 +2,7 @@ package PracticeJava;
 
 import java.util.Scanner;
 
-public class kgkd {
+public class ScannerPriceItem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double itemPrice;

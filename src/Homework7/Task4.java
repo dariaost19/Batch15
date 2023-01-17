@@ -5,15 +5,13 @@ import java.util.Scanner;
 public class Task4 {
     public static void main(String[] args) {
 
-
-    Scanner scan = new Scanner(System.in);
-
+       Scanner scan=new Scanner(System.in);
         System.out.println("Please enter an item you would like to buy");
-    String item = scan.nextLine();
+        String item = scan.nextLine();
         System.out.println("Please enter the price of this item");
-    int itemPrice = scan.nextInt();
+        int itemPrice = scan.nextInt();
 
-    int payment;
+        int payment;
     int balance = 0;
         do {
 
@@ -32,7 +30,7 @@ public class Task4 {
 
 
     }while (payment <itemPrice);
-        ++payment;
+        payment+=1;
 
         System.out.println("Thank you for shopping with us !!!");
         scan.close();
