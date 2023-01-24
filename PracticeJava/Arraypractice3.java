@@ -1,6 +1,6 @@
 package PracticeJava;
 
-public class lhl {
+public class Arraypractice3 {
     public static void main(String[] args) {
 
             int[] egArray = {2, 4, 6, 8, 10, 1, 3, 5, 7, 9};

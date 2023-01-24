@@ -1,6 +1,6 @@
 package Replits;
 
-public class Replit92 {
+public class Replit93 {
     public static void main(String[] args) {
         //Validate if the string ends with "u" prints the boolean value accordingly.
         //

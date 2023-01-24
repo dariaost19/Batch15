@@ -1,20 +1,6 @@
 package Homework9;
 
-public class Dog {
-    //2) Create a Dog Class and create 3 different objects of it: Husky, Bulldog, Labrador  with specific  attributes and behaviors.
-String name;
-String color;
-int age;
-
-
-    void eat()
-    {System.out.println("Eat Chewy");}
-    void play(){System.out.println("plays all the time");}
-
-    void sleep()
-    {System.out.println("Loves sleep");}
-
-
+public class DogTester {
     public static void main(String[] args) {
         Dog Husky=new Dog();
         Husky.name="Baby";
@@ -41,6 +27,8 @@ int age;
         Labrador.eat();
         Labrador.play();
     }
-    }
+}
+
+
 
 

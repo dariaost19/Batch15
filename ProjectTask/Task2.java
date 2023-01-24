@@ -1,8 +1,6 @@
-package HomeworkProject;
+package ProjectTask;
 
-import javax.swing.*;
 import java.util.Scanner;
-import java.util.SortedMap;
 
 public class Task2 {
     public static void main(String[] args) {

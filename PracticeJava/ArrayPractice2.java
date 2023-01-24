@@ -1,6 +1,6 @@
 package PracticeJava;
 
-public class khk {
+public class ArrayPractice2 {
     public static void main(String[] args) {
 
 

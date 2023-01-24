@@ -1,6 +1,6 @@
 package Replits;
 
-public class Raplit93 {
+public class Raplit093 {
     public static void main(String[] args) {
         //String “abracadabra alakazam”;
         //- Print out the position of the first occurrence of "c".

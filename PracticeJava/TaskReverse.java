@@ -1,9 +1,8 @@
-package homework10;
+package PracticeJava;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task2 {
+public class TaskReverse {
     public static void main(String[] args) {
         //2) Create a String and print it in reverse order (Sunday → yadnuS).
         Scanner scan = new Scanner(System.in);

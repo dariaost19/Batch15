@@ -1,6 +1,6 @@
 package PracticeJava;
 
-public class kbfs {
+public class ArrayPractice1 {
     public static void main(String[] args) {
         int[] array = { 1, 4, 3, 6, 8, 2, 5 };
 

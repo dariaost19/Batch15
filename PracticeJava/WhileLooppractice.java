@@ -1,6 +1,6 @@
 package PracticeJava;
 
-public class newgh {
+public class WhileLooppractice {
     public static void main(String[] args) {
 
         int m=2, total=0;
