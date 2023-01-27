@@ -5,5 +5,6 @@ public class Task1 {
         //1) Create a String that will hold a sentence. Write a program to get a new String without any spaces.
         String str="Today is a good day";
         System.out.println(str.replace(" ",""));
+
     }
 }
