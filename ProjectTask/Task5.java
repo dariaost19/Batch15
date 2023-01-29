@@ -19,7 +19,7 @@ public class Task5 {
 
                 }else{
                     OddSum=OddSum+numbers[i][j];
-                    System.out.println("The sum of Odd Numbers is : " +OddSum );
+                    System.out.println("The sum of Odd Numbers is : " +OddSum );break;
 
             }
         }
