@@ -1,0 +1,10 @@
+Interface:
+What is an interface in Java with example?
+An interface is a reference type in Java. It is similar to class. It is a collection of abstract methods.
+A class implements an interface, thereby inheriting the abstract methods of the interface.
+Along with abstract methods, an interface may also contain constants, default methods, static methods, and nested types.
+
+Abstract classes should be used primarily for objects that are closely related, whereas interfaces are best suited for providing a common functionality to unrelated classes.
+Why we should learn about interfaces ?
+when objects a re closely related to each other and there is Is a relationship between classes we should use ABSTRACTION.
+when objects are not related to each others when we should implement abstraction with help of INTERFACES.

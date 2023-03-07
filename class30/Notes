@@ -1,0 +1,30 @@
+Set:
+Sets do not allow duplicates values.There are three main types of sets  : 1)HashSet,  2)LinkedHashSet,  3)TreeSet
+
+HashSet(most widely used):
+upside: speed
+downside: it does not maintain insertion order.
+
+LinkedHashSet:
+upside: maintain insertion order
+downside: slower than HashSet
+
+TreeSet:
+upside: keeps the data organized, sorted
+downside: it is slower than others.
+
+Map(data structure):
+
+Maps allow us to store data in the form of key value pairs. Just like Sets we have three main types of Maps :  1) HashMap, 2) LinkedHashMap, 3)TreeMap
+
+HashMap(most widely used):
+upside: speed
+downside: it does not maintain insertion order.
+
+LinkedHashMap:
+upside: maintain insertion order
+downside: slower than HashSet
+
+TreeMap:
+upside: keeps the data organized, sorted
+downside: it is slower than others.

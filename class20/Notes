@@ -1,0 +1,6 @@
+Variables Syntax :
+datatype , name( must specify datatype and name)
+
+Methods Syntax:
+returnType , name(){}
+static non access modifier , should be called by class name.

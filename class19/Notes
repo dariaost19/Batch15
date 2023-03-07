@@ -1,0 +1,5 @@
+This keyword is used to refer to the current object
+This can be used with variables and methods
+This used to refer to instance variables in situation when local variable have same name as instance -> we use this. to differentiate and refer to instance variable.
+This can be used to refer CURRENT  instance methods as well.
+this() can be i=used to call current class constructor.

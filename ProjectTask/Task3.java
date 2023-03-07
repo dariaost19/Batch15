@@ -11,9 +11,9 @@ public class Task3 {
 
                 sum += j;
             }
-            System.out.println("The sum of  is :" + sum );
-        }
 
+        }
+        System.out.println("The sum of  is :" + sum );
             }
         }
 

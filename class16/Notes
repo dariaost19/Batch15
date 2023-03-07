@@ -1,0 +1,11 @@
+Class 16 01/29/2023
+Access modifiers:
+there are 4 types of access modifiers.
+It is some keywords in Java that we can use to control the access of variables, methods and classes.
+There are 4 access levels :
+-private (could be used only in the same class)
+-protected
+-default (could be used in the same package within different classes)
+-public(could be used anywhere in different classes or packages)
+
+There are 3 keywords that we use to control this access : private, protected,public

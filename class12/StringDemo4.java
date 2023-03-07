@@ -9,5 +9,6 @@ public class StringDemo4 {
         System.out.println(str.equals(str2));
         boolean areequal=str.equalsIgnoreCase(str2);
         System.out.println(areequal);
+
     }
 }

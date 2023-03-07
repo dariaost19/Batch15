@@ -36,10 +36,11 @@ Upside :
 
  1)Local : If variable is created inside the block of code like method,loop,if condition . Occupy the memory for the shortest time . you should always try to write the code using this type.
  2)Instance variables : all the variables which are created inside the class but outside of method. We can use them in all instance methods of th class .
- 3)Static variable:all the variable with are outside the methods and have a static keyword.
+ 3)Static variable:all the variable with are outside the methods and have a static keyword. only occupy one memory location aven if you create a lot of objects of that class.
+ They can be used in any block of code inside the class they can be accessed in any methods of the class they can also be accessed with the help of any object of that class.
 
  Downside:
 
  1)Local : you can not access them outside the block in which they were created.
  2)Instance: they stay longer in the memory as compare to local.
- 3)Static :
+ 3)Static : They are loaded into a memory when a class is loaded even though you don't use them.
