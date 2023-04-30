@@ -1,0 +1,6 @@
+Constructors help us create objects easily or initialize the instance fields of the class in a better way.
+Constructors rules:
+-similar to methods but they don't have return types.
+- have same name as class name.
+- all the access modifiers could be used with constructors.
+-static keyword is not allowed with constructors

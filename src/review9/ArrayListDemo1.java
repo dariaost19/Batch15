@@ -1,0 +1,27 @@
+package review9;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListDemo1 {
+    public static void main(String[] args) {
+        List<String>computers=new ArrayList<>();
+        computers.add("MacBook");
+        computers.add("Lenovo");
+        computers.add("HP");
+        computers.add("Dell");
+        System.out.println(computers);
+        for (int i = 0; i < computers.size() ; i++) {
+            String c=computers.get(i);
+            if(c.equals("HP")){
+                System.out.println("You are HP user");
+            }
+            System.out.println(c);
+
+        }
+        System.out.println();
+        for(String x:computers){
+            System.out.println(x);
+        }
+    }
+}

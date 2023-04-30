@@ -1,0 +1,21 @@
+Overloading it is a mechanism in java that allows us to have same method name with different parameters.
+parameters can be in different sequence, type or number.
+
+Why do we use ?
+ 1)Allow us to reuse same method name again and again that we don't have to come up with different methods names if we are doing the same thing again and again.
+ 2) it allows us to write a cleaner code.
+
+ How to overload the method?
+-  we can overload a method by redefining it with different parameters.
+
+Class 21 , 02/08/2023
+Overriding it is a mechanism that allows a subclass or child class to provide a specific implementation of the method .
+
+Why we override ?
+1) if a child class does not like the implementation of a parent class it has the flexibility that you can override the method.
+Syntax of override
+- must be parent -child relationship between two classes.
+Rules
+1) to override a method there are must be a parent child relationship.
+2)if smth cant be inherited we cant override it. for example private methods and constructor.
+3) visibility of method can be increased for example if smth has default access you can increase visibility to public, but you can not decrease it.

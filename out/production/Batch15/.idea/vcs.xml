@@ -5,8 +5,12 @@
     <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/Homework7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/Homework8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Homework9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ProjectTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Replits" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/class7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/class9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/homework10" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/review3" vcs="Git" />
   </component>
 </project>

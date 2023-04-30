@@ -1,0 +1,16 @@
+2D arrays
+array that contain array.
+Data type[][] name of array=new Data type[size of rows][];
+
+second way
+DataType[] nameofArray={data data data}
+
+
+Object Oriented Program OOP Class 11 01/18/2023
+
+ObjectOrientedProgramming  is nothing but some set of rules that if we follow, we achieve below.
+   1)Code repetition is minimized.
+   2)Changing existing code and adding new features becomes easier.
+   3)Representing real life entities becomes easier.
+   4)Help us write us secure code.
+   5)

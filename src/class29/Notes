@@ -1,0 +1,14 @@
+Iterator:
+Sets: Sets like LinkedHashSet, HashSet,TreSet do not allow duplicate values inside array.
+Three main types:
+HashSet :
+upside: fast
+downside: does not retain the insertion order.
+
+LinkedHashSet:
+upside: retains the insertion order
+downside: slower then HashSet
+
+TreSet:
+upside: keeps the data sorted
+downside: its is slowest list

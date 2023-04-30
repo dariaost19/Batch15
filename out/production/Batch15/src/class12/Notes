@@ -1,0 +1,18 @@
+OPP(Object oriented programming)
+It is a way to write the code. That follows certain rules and guidelines.
+We create classes that have attributes/properties/fields and methods/functions.
+Why we need OOP?
+1)It simplifies the software development and maintenance(updates, adding new features to the existing code).
+2)Code duplication is reduced.
+3) It also help us represent something from real life with the help of classes anf objects.
+
+
+Class: Is a blueprint(plan) or design from which actual real life objects are created.
+Computer use class to check what that class can do Scanner scan=new Scanner(System.in)
+Scanner is a class. scan is an object of scanner class.
+ With the help of object we can use methods from a class we can also use properties from that class.
+
+ Object :
+ Objects are created from classes and we can use them to call methods and properties from those classes.
+
+ Inside the class sequence does not matter.

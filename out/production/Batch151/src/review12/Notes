@@ -1,0 +1,11 @@
+There are 3 maim types of issues in Java:
+1.Syntax( occur when java syntax is not followed, occur at compile time )To fix use your IDEs
+2.Logical(occur when programs don't do things they supposed to do) to fix use Debugger
+3.Exceptions(runtime) to fix read the error and take rhe help from the class exception is being thrown.
+
+
+
+Exception Handling(finding and fixing runtime errors).
+There are some keywords and blocks of code that we can use to avoid these exceptions.
+There are some keywords and block of codes that we can use to avoid these exceptions.
+try, catch, finally, throws, throw

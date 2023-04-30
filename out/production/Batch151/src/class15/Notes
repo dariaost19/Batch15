@@ -1,0 +1,46 @@
+Method is a block of code(anything that starts with {}) that will be run only when its called.
+Collection of Java statement.
+
+Why should we learn Methods?
+1) It allowed us to simplify large code that we can devide the logic into smaller parts by creating methods
+for them build those methods one by one and then combine them to build the complete application.
+2) Methods allow us to re-use code.
+3) Methods allow us to be flexible.
+
+How can we create Methods?
+2 Types of Method. 1-Build in , 2-User defined.
+
+- Build in (the Methods which are designed by Java developers println, nextInt, Scanner , length etc).
+- User-defined(methods that we write).
+ Methods which return something when called and others are methods which do not return anything when called.
+
+ int add(int a, int b){
+ return a+b; //statement
+ }
+ int  => datatype, return type of method.
+ add()  =>name of the method.
+ (int a, int b) =>parameters of method, input to the method.
+ {}  => the body of the method.
+ Rules : return type and values that are returning the method should match. We can only assign the methods to variables of same type.
+ To call the Method
+ Create an object of the class that have the method objectname.methodname.
+
+
+ *****************************
+
+ There are 3 types of Variables wit respect to their scope.
+ 1.    Local Variables: Local variables are defined inside a method or block of code. They are only accessible within the method or block of code where they are declared and are not visible outside of it. They are also known as automatic or stack variables. They do not have a default value, so you must initialize them before using them.
+ 2.    Instance Variables: Instance variables are defined in a class but outside of any method. They are associated with an instance of the class and have a default value. They can be accessed by any method in the class and are also known as non-static fields.
+ 3.    Static Variables: Static variables are also defined in a class but outside of any method and are shared among all instances of the class. They are associated with the class itself rather than any specific instance. They can be accessed by any method in the class and are also known as class variables. They have a default value and can be accessed directly by calling className.variableName.
+Upside :
+
+ 1)Local : If variable is created inside the block of code like method,loop,if condition . Occupy the memory for the shortest time . you should always try to write the code using this type.
+ 2)Instance variables : all the variables which are created inside the class but outside of method. We can use them in all instance methods of th class .
+ 3)Static variable:all the variable with are outside the methods and have a static keyword. only occupy one memory location aven if you create a lot of objects of that class.
+ They can be used in any block of code inside the class they can be accessed in any methods of the class they can also be accessed with the help of any object of that class.
+
+ Downside:
+
+ 1)Local : you can not access them outside the block in which they were created.
+ 2)Instance: they stay longer in the memory as compare to local.
+ 3)Static : They are loaded into a memory when a class is loaded even though you don't use them.

@@ -1,0 +1,7 @@
+When we should use String class :
+1) when want to save as much memory as possible and we are okay if the program runs a little slow.
+When should we use Stringbiulder class :
+1)when we want max speed and we don't care how much memory program use.
+
+What does it mean String is immutable :
+1) String not changeable(once created you can not change it). once created in computer memory it cant be changed because same memory share across many variables .
